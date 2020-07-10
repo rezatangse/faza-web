@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Blog</a>
+                    <a href="/blog">Blog</a>
                     <a href="https://laracasts.com">Contact</a>
                     <a href="https://laravel-news.com">Facebook</a>
                     <a href="https://blog.laravel.com">Instagram</a>
