@@ -86,12 +86,12 @@
 
                 <div class="links">
                     <a href="/blog">Blog</a>
-                    <a href="https://laracasts.com">Contact</a>
-                    <a href="https://vapor.laravel.com">Project</a>
-                    <a href="https://laravel-news.com">Facebook</a>
-                    <a href="https://blog.laravel.com">Instagram</a>
-                    <a href="https://nova.laravel.com">Twitter</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="/contact">Contact</a>
+                    <a href="/project">Project</a>
+                    <a href="https://www.facebook.com/rezatangse.id">Facebook</a>
+                    <a href="https://www.instagram.com/rezatangse">Instagram</a>
+                    <a href="https://www.twitter.com/rezatangse">Twitter</a>
+                    <a href="https://github.com/fachre">GitHub</a>
                 </div>
             </div>
         </div>
