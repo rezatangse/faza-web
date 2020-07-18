@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Faza
+                    faza.web.id
                 </div>
 
                 <div class="links">
