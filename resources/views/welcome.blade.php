@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    faza.web.id
+                    Dashboard Faza
                 </div>
 
                 <div class="links">
